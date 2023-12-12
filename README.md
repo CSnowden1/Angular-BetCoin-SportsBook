@@ -6,4 +6,4 @@ When a user places a bet, they can mint it into a tradable coin. A BetCoin. This
 
 To show users a real-world example I have built three Sports books on top of my Sports Generator API and BetCoin Cyprto Currency.
 
-This is the Angualr and Semantic UI based Sports Book called "Bet Zone"
+This is the Angualr and Ionic based Sports Book called "Bet Zone"

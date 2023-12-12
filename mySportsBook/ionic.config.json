@@ -1,0 +1,7 @@
+{
+  "name": "mySportsBook",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
